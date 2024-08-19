@@ -2,6 +2,7 @@ file created in feature branch
 
 push to feature branch 
 
+<<<<<<< HEAD
 new line added ne change
 
 again new change added
@@ -12,3 +13,10 @@ again new change added
 new change feature
 
 
+=======
+new line added
+
+file added by featurebranch-2
+
+done
+>>>>>>> bdf85b2a446bef343c5d771997ad20ba39d9bc22
